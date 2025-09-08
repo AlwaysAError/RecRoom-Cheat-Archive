@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Release\\Roboto.obj",
+            "outputs": [
+                "x64\\Release\\Roboto.h_19CB088D89B94838.ifc.dt.module.json",
+                "x64\\Release\\Roboto.h_19CB088D89B94838.ifc.dt.d.json",
+                "x64\\Release\\Roboto.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\mikep\\OneDrive\\Desktop\\astolfo.wtf\\ImGui-DirectX-11-Kiero-Hook-master\\ImGui DirectX 11 Kiero Hook\\ui\\Font\\Roboto.h",
+                    "source-path": "c:\\users\\mikep\\onedrive\\desktop\\astolfo.wtf\\imgui-directx-11-kiero-hook-master\\imgui directx 11 kiero hook\\ui\\font\\roboto.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

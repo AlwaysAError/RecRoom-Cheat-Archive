@@ -1,0 +1,13 @@
+﻿  Scanning sources for module dependencies...
+  main.cpp
+C:\Users\mikep\OneDrive\Desktop\astolfo.wtf\ImGui-DirectX-11-Kiero-Hook-master\ImGui DirectX 11 Kiero Hook\ui\watermark.h(45,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+  Generating code
+  3 of 1911 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    29 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ImGui DirectX 11 Kiero Hook.vcxproj -> C:\Users\mikep\OneDrive\Desktop\astolfo.wtf\ImGui-DirectX-11-Kiero-Hook-master\x64\Release\ImGui DirectX 11 Kiero Hook.dll
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
